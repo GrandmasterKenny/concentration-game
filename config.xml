@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.adventuretime.concentration"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Adventure Time Concentration</name>
+
+  <description>
+      A memory game based on the Adventure Time cartoon.
+  </description>
+
+  <author href="https://github.com/KennyGScott" email="kenny.scott@design-ninja.net">
+      Kenny Scott
+  </author>
+
+</widget>
