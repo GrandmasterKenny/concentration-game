@@ -6,7 +6,11 @@
     version     = "1.0.0" >
 
 <!-- versionCode is optional and Android only -->
-
+  <icon src="icons/mdpi.png" platform="android" qualifier="mdpi" />
+  <icon src="icons/hdpi.png" platform="android" qualifier="hdpi" />
+  <icon src="icons/xhdpi.png" platform="android" qualifier="xhdpi" />
+  <icon src="icons/xxhdpi.png" platform="android" qualifier="xxhdpi" />
+  <icon src="icons/xxxhdpi.png" platform="android" qualifier="xxxhdpi" />
   <name>Adventure Time Concentration</name>
 
   <description>
